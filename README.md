@@ -166,7 +166,7 @@ p.path.animationOptions =
 ## Be aware that
 - Any kind of path should always start with simple point.
 - *path.animationOptions* should be assigned before you create any points
-- The path module alters uses the *layer.html* value, that’s how animation happens, so if you want to change *layer.html*, it’s better create new parent layer
+- The path module alters the *layer.html* value, that’s how animation happens, so if you want to change *layer.html*, it’s better create new parent layer
 
 ## Examples
 
